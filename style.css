@@ -66,6 +66,7 @@ label { /* No clue why the default label height was 28px when everything else in
   object-fit: contain;
   height: 24px;
   width: 24px;
+  fill: black;
 }
 
 .profile-icon {
